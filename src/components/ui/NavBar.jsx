@@ -86,7 +86,7 @@ export default function NavBar({ sectionRefs }) {
           <span className="absolute bottom-0 left-0 h-[0.125em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
         </a>
         <a href="#services" className="group relative hidden md:inline-block">
-          <span>services</span>
+          <span>experience</span>
           <span className="absolute bottom-0 left-0 h-[0.125em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
         </a>
         <a href="#works" className="group relative hidden md:inline-block">
