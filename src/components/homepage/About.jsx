@@ -78,6 +78,13 @@ export default function About() {
                 Instagram 📸
               </a>
               {" "}stories.
+              <br />
+              <br />
+              If you would like to know more about me:{" "}
+              <a className="underline duration-300 ease-in-out hover:text-secondary-700"
+                href="https://drive.google.com/file/d/18Mfk9NY_VDDWHkdKk3QG6XmYG39IVouy/view?usp=sharing">
+                  My Resume 📄
+                </a>
             </p>
           </div>
         </div>
